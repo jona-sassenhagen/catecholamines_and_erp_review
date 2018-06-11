@@ -1,0 +1,52 @@
+,Substance,Study,n,Task,P3a,P3b,Dosage,Dosage_(Percentile),Dosage_(standardized),is_significant,Dopamine_transporter,Noradrenaline_transporter,Alpha_1_Beta_adrenergic_receptor,D2_dopamine_receptor,D1_dopamine_receptor,Alpha_2_adrenergic_receptor
+0,Amphetamine,Silber et al. (2012),20.0,Oddball,,0.0,30.0,50.0,0.7071067811865475,False,1.0,-1.0,-1.0,1.0,0.0,0.0
+1,Amphetamine,Halliday et al. (1994),12.0,Flanker,,0.0,10.0,16.666666666666664,-0.7071067811865475,False,1.0,-1.0,-1.0,1.0,0.0,0.0
+2,Atipamezole,0,0.0,0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,-1.0
+3,Atomoxetine,Barnes et al. (2013),35.0,Flanker,0.0,0.0,60.0,50.0,1.0,False,1.0,0.0,0.0,0.0,0.0,0.0
+4,Atomoxetine,Barnes et al. (2013),29.0,Errors,0.0,0.0,60.0,50.0,1.0,False,1.0,0.0,0.0,0.0,0.0,0.0
+5,Bromocriptine,"Nishimura, Ogura, & Ohta (1995)",18.0,Oddball,,0.0,2.5,50.0,1.0,False,0.0,0.0,-1.0,-1.0,-1.0,-1.0
+6,Clonidine,Brown et al. (2015),18.0,Oddball,-1.0,1.0,0.165,41.25,0.2403390026313232,True,0.0,0.0,-1.0,0.0,0.0,-1.0
+7,Clonidine,Brown et al. (2015),18.0,Oddball,-1.0,1.0,0.165,41.25,0.2403390026313232,True,0.0,0.0,-1.0,0.0,0.0,-1.0
+8,Clonidine,"Logemann, Bocker, Deschamps, Kemner, & Kenemans (2013)",21.0,Go/No-go,-1.0,-1.0,0.1,25.0,-1.1482863459052097,True,0.0,0.0,-1.0,0.0,0.0,-1.0
+9,Clonidine,"Logemann, Bocker, Deschamps, Kemner, & Kenemans (2014)",9.0,Attention,,1.0,0.1,25.0,-1.1482863459052097,True,0.0,0.0,-1.0,0.0,0.0,-1.0
+10,Clonidine,Turetsky & Fein (2002),10.0,Oddball,0.0,0.0,0.2,50.0,0.9880603441509949,False,0.0,0.0,-1.0,0.0,0.0,-1.0
+11,Clonidine,Shelley et al. (1997),10.0,Oddball,,-1.0,0.1,25.0,-1.1482863459052097,True,0.0,0.0,-1.0,0.0,0.0,-1.0
+12,Clonidine,Halliday et al. (1994),12.0,Flanker,,-1.0,0.2,50.0,0.9880603441509949,True,0.0,0.0,-1.0,0.0,0.0,-1.0
+13,Clonidine,Joseph & Sitaram (1989),14.0,Oddball,0.0,-1.0,0.2,50.0,0.9880603441509949,True,0.0,0.0,-1.0,0.0,0.0,-1.0
+14,Cocaine,"Herning, Jones, Hooker, & Tulunay (1985)",70.0,Oddball,-1.0,-1.0,,0.5,1.0,True,1.0,1.0,0.0,0.0,0.0,0.0
+15,Dextroamphetamine,"Albrecht, Price, Lee, Iyyalol, & Martin-Iverson (2012)",26.0,Oddball,0.0,-1.0,30.0,50.0,1.0,True,1.0,1.0,1.0,0.0,0.0,0.0
+16,Droperidol,Shelley et al. (1997),10.0,Oddball,,-1.0,1.0,50.0,1.0,True,0.0,0.0,1.0,1.0,0.0,0.0
+17,Haloperidol,KÃ¤hkÃ¶nen et al. (2001),12.0,Oddball,,-1.0,2.0,33.33333333333333,-0.8660254037844387,True,0.0,0.0,0.0,1.0,1.0,0.0
+19,Haloperidol,Forster et al. (2017),18.0,Learning Task,,0.0,3.0,50.0,0.8660254037844387,False,0.0,0.0,0.0,1.0,1.0,0.0
+20,Haloperidol,Forster et al. (2017),18.0,Errors,,0.0,3.0,50.0,0.8660254037844387,False,0.0,0.0,0.0,1.0,1.0,0.0
+21,Levodopa,"Linssen, Sambeth, Vuurman, & Riedel (2014)",30.0,Multiple,0.0,0.0,100.0,50.0,1.0,False,0.0,0.0,0.0,-1.0,-1.0,0.0
+22,Methamphetamine,Silber et al. (2012),20.0,Oddball,,0.0,30.0,50.0,1.0,False,1.0,1.0,0.0,0.0,0.0,-1.0
+23,Methylphenidate,"Han, Wang, Shi, Mao, & Sun (2015)",14.0,Oddball,0.0,0.0,20.0,22.22222222222222,-0.37100838257341645,False,1.0,1.0,0.0,0.0,0.0,1.0
+24,Methylphenidate,"Linssen, Sambeth, Vuurman, & Riedel (2014)",30.0,Multiple,0.0,0.0,40.0,44.44444444444444,1.7797648497362444,False,1.0,1.0,0.0,0.0,0.0,1.0
+25,Methylphenidate,Barnes et al. (2013),35.0,Flanker,0.0,0.0,30.0,33.33333333333333,0.704378233581414,False,1.0,1.0,0.0,0.0,0.0,1.0
+26,Methylphenidate,Barnes et al. (2013),29.0,Errors,0.0,1.0,30.0,33.33333333333333,0.704378233581414,True,1.0,1.0,0.0,0.0,0.0,1.0
+27,Methylphenidate,Cooper et al. (2005),32.0,CPT targets,,0.0,5.0,5.555555555555555,-1.984088306805662,False,1.0,1.0,0.0,0.0,0.0,1.0
+28,Methylphenidate,Cooper et al. (2005),32.0,CPT targets,,0.0,15.0,16.666666666666664,-0.9087016906508316,False,1.0,1.0,0.0,0.0,0.0,1.0
+29,Methylphenidate,Cooper et al. (2005),32.0,CPT targets,,0.0,45.0,50.0,2.3174581578136597,False,1.0,1.0,0.0,0.0,0.0,1.0
+30,Methylphenidate,"Anderer, Saletu, Semlitsch, & Pascual-Marqui (2002)",20.0,Oddball,0.0,1.0,20.0,22.22222222222222,-0.37100838257341645,True,1.0,1.0,0.0,0.0,0.0,1.0
+31,Methylphenidate,"Brumaghim, Klorman, Strauss, Lewine, & Goldstein (1987)",19.0,Sternberg,,0.0,22.0,24.444444444444443,-0.15593105934245033,False,1.0,1.0,0.0,0.0,0.0,1.0
+32,Methylphenidate,"Brumaghim, Klorman, Strauss, Lewine, & Goldstein (1987)",14.0,Sternberg,,0.0,21.0,23.333333333333332,-0.26346972095793336,False,1.0,1.0,0.0,0.0,0.0,1.0
+33,Methylphenidate,Brumaghim & Klorman (1998),22.0,Syllable Task,,1.0,20.0,22.22222222222222,-0.37100838257341645,True,1.0,1.0,0.0,0.0,0.0,1.0
+34,Methylphenidate,"Fitzpatrick, Klorman, Brumaghim, & Keefover (1988)",20.0,Target Detection,0.0,0.0,21.0,23.333333333333332,-0.26346972095793336,False,1.0,1.0,0.0,0.0,0.0,1.0
+35,Methylphenidate,Strauss et al. (1984),22.0,CPT,,1.0,20.0,22.22222222222222,-0.37100838257341645,True,1.0,1.0,0.0,0.0,0.0,1.0
+36,Methylphenidate,Coons et al. (1981),13.0,CPT easy,,0.0,20.0,22.22222222222222,-0.37100838257341645,False,1.0,1.0,0.0,0.0,0.0,1.0
+37,Methylphenidate,Coons et al. (1981),13.0,CPT hard,,1.0,20.0,22.22222222222222,-0.37100838257341645,True,1.0,1.0,0.0,0.0,0.0,1.0
+38,Methylphenidate,Coons et al. (1981),13.0,Oddball,,0.0,20.0,22.22222222222222,-0.37100838257341645,False,1.0,1.0,0.0,0.0,0.0,1.0
+39,Methylphenidate,"Hink, Fenton, Tinkleberg, Pfefferbaum, & Kopell (1978)",12.0,Target Detection,,0.0,10.0,11.11111111111111,-1.446394998728247,False,1.0,1.0,0.0,0.0,0.0,1.0
+41,Methylphenidate,Dockree et al. (2017),33.0,CPT (similar) Hits,,1.0,30.0,33.33333333333333,0.704378233581414,True,1.0,1.0,0.0,0.0,0.0,1.0
+42,Methylphenidate,Dockree et al. (2017),33.0,CPT (similar) misses,,1.0,30.0,33.33333333333333,0.704378233581414,True,1.0,1.0,0.0,0.0,0.0,1.0
+43,Modafinil,Novaes et al. (2015),10.0,Oddball,0.0,0.0,200.0,50.0,1.0,False,1.0,0.0,-1.0,0.0,0.0,0.0
+44,Propranolol,Rover et al. (2011),16.0,Oddball,,1.0,80.0,50.0,1.0,True,0.0,0.0,1.0,0.0,0.0,0.0
+46,Propranolol,Rover et al. (2011),16.0,Errors,,0.0,80.0,50.0,1.0,False,0.0,0.0,1.0,0.0,0.0,0.0
+47,Sulpiride,Takeshita & Ogura (1994),18.0,Oddball,,0.0,150.0,25.0,-0.8728715609439693,False,0.0,0.0,0.0,1.0,0.0,0.0
+48,Sulpiride,Takeshita & Ogura (1994),18.0,Oddball,,0.0,300.0,50.0,1.091089451179962,False,0.0,0.0,0.0,1.0,0.0,0.0
+49,Sulpiride,"Lueckel, Panitz, Nater, & Mueller (2018)",18.0,Gambling,,0.0,200.0,33.33333333333333,-0.21821789023599225,False,0.0,0.0,0.0,1.0,0.0,0.0
+50,Yohimbine,"Riba, Rodriguez-Fornells, Morte, Munte, & Barbanoj ()",15.0,Flanker,,0.0,30.0,50.0,0.5,False,0.0,0.0,0.0,1.0,0.0,1.0
+51,Yohimbine,Turetsky & Fein (2002),10.0,Oddball,1.0,0.0,30.0,50.0,0.5,False,0.0,0.0,0.0,1.0,0.0,1.0
+52,Yohimbine,Halliday et al. (1994),12.0,Flanker,,0.0,30.0,50.0,0.5,False,0.0,0.0,0.0,1.0,0.0,1.0
+53,Yohimbine,"Lueckel, Panitz, Nater, & Mueller (2018)",18.0,Gambling,,0.0,10.0,16.666666666666664,-1.5,False,0.0,0.0,0.0,1.0,0.0,1.0
